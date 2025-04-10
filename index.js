@@ -49,3 +49,4 @@ const searchCountries = debounce(async () => {
 
 searchInput.addEventListener('input', searchCountries);
 
+
